@@ -10,41 +10,7 @@
 
 </div>
 
-<br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```java
-public class Ragul implements Developer {
-
-    private String name        = "Ragul P";
-    private String location    = "Vellore, Tamil Nadu, India";
-    private String degree      = "B.E. Computer Science";
-
-    private String[] stack = {
-        "Java", "Spring Boot", "React.js",
-        "Flutter", "MySQL", "PostgreSQL", "AWS"
-    };
-
-    private String[] currentlyLearning = {
-        "Advanced AWS Deployment",
-        "Kubernetes",
-        "System Design"
-    };
-
-    private String funFact =
-        "I started in Civil Engineering, "
-      + "then rebuilt my own stack from "
-      + "the foundation up — into Java Full Stack.";
-
-    @Override
-    public String motto() {
-        return "Code it clean, test it hard, ship it confident.";
-    }
-}
-```
-
-<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
