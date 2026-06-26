@@ -12,10 +12,9 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-
 ## 🛠️ Tech Stack
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 **Languages**
 
@@ -168,16 +167,3 @@
 🐳 DevOps            → Docker, Jenkins CI/CD Pipelines
 🧱 System Design     → Microservices Architecture, Scalability Patterns
 📱 Flutter           → Cross-Platform Android & iOS Development
-```
-
-<br/>
-
-<div align="center">
-
-📫 Reach me at **raghulprakasam@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ragulprakasam) · [GitHub](https://github.com/raghulprakasam)
-
-![Profile Views](https://komarev.com/ghpvc/?username=raghulprakasam&color=70a5fd&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
