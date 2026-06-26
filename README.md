@@ -10,6 +10,9 @@
 
 </div>
 
+<br/>
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 
 ## 🛠️ Tech Stack
@@ -152,7 +155,7 @@
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science | Global Institute of Engineering and Technology, Vellore (Anna University) | 2023 – 2026 | CGPA: 7.5 |
-| Diploma in Civil Engineering | Thanthai Periyar Govt Polytechnic College (DOTE) | 2019 – 2022 | 79%  |
+| Diploma in Civil Engineering | Thanthai Periyar Govt Polytechnic College (DOTE) | 2019 – 2022 | 79%|
 
 </div>
 
