@@ -186,7 +186,7 @@ public class Ragul implements Developer {
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science | Global Institute of Engineering and Technology, Vellore (Anna University) | 2023 – 2026 | CGPA: 7.5 |
-| Diploma in Civil Engineering | Thanthai Periyar Govt Polytechnic College (DOTE) | 2019 – 2022 | — |
+| Diploma in Civil Engineering | Thanthai Periyar Govt Polytechnic College (DOTE) | 2019 – 2022 | 79%  |
 
 </div>
 
